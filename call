@@ -1,4 +1,0 @@
-#!/bin/sh
-
-rustc ./src/$1.rs -o ./bin/$1
-./bin/$1
