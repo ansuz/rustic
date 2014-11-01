@@ -30,3 +30,20 @@ cd rustic
 mkdir bin
 ./call <one of the files in the src directory>
 ```
+
+## Compiling a program
+
+Assuming you have the Rust compiler (`rustc`), you can compile a binary executable of a rust source file (`pewpew.rs`) using the following command:
+
+```bash
+rustc ./pewpew.rs -o pewpew
+```
+
+
+
+
+
+
+
+
+
